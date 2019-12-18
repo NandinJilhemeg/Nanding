@@ -1,2 +1,0 @@
-# Nanding
-Specialization project
